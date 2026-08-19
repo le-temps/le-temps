@@ -31,12 +31,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=le-temps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Joy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-temps&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=le-temps&theme=tokyonight&hide_border=true" alt="Joy's GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=le-temps&theme=tokyo-night&hide_border=true" width="100%" alt="Joy's GitHub Activity Graph" />
 </div>
+
+<br/>
 
 <div align="center">
   <sub>Generated with ❤️ by <a href="https://github.com/Platane/snk">Platane/snk</a> & GitHub Actions CI</sub>
