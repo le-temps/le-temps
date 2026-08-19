@@ -31,12 +31,20 @@
 
 ---
 
-### 📊 GitHub Activity & Streak Stats
+### 🛠️ Tech Stack & Research Ecosystem
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=le-temps&theme=tokyonight&hide_border=true" alt="Joy's GitHub Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=le-temps&theme=tokyo-night&hide_border=true" width="100%" alt="Joy's GitHub Activity Graph" />
+
+```text
+🧠 AI & Deep Learning : Python · PyTorch · Transformers · DeepSeek Harness · MemGPT · RAG
+💻 Systems & Backends : TypeScript · Node.js · Go · Docker · Linux · C++
+🔬 Research Toolkits  : LaTeX · KaTeX · Git · GitHub Actions · Astro
+```
+
+<br/>
+
+<img src="https://ghchart.rshah.org/38bdf8/le-temps" alt="Joy's GitHub Contribution Chart" width="100%" />
+
 </div>
 
 <br/>
